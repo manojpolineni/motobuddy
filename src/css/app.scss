@@ -1,0 +1,102 @@
+/* Your app custom styles here */
+.list {
+  margin-top: 80px;
+  margin-right: 70px;
+}
+.form-box {
+  height: 450px;
+  width: 300px;
+  border: 1px solid silver;
+  box-shadow: 2px 2px;
+  margin-left: 50px;
+  z-index: -1;
+}
+
+.demo-swiper .swiper-slide {
+  font-size: 25px;
+  font-weight: 300;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fff;
+  color: #000;
+}
+
+.demo-swiper .swiper-slide {
+  box-sizing: border-box;
+  border: 1px solid #ddd;
+  background: #fff;
+}
+
+.demo-swiper {
+  margin: 0px 0 35px;
+  font-size: 18px;
+  height: 120px;
+}
+
+.demo-swiper.demo-swiper-auto .swiper-slide {
+  width: 85%;
+}
+
+.demo-swiper.demo-swiper-auto .swiper-slide:nth-child(2n) {
+  width: 70%;
+}
+
+.demo-swiper.demo-swiper-auto .swiper-slide:nth-child(3n) {
+  width: 30%;
+}
+.page-content1 {
+  margin-bottom: -200px;
+  background-color: #000;
+  height: 300px;
+  display: flex;
+  justify-content: space-around;
+}
+.tab-link {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  float: left;
+  padding: 10px 120px;
+  font-size: larger;
+  color: whitesmoke;
+}
+.Menu {
+  margin-top: 80px;
+  background-color: #ddd;
+  margin-right: 150px;
+  border-radius: none;
+  box-sizing: none;
+}
+.menu-text {
+  background-color: #ddd;
+}
+.menu-text1 {
+  background-color: #ddd;
+}
+.list1 {
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.carousel {
+  height: 500px;
+}
+.block-title {
+  font-size: larger;
+  color: #000;
+}
+#signup
+{
+  color:rgba(0, 0, 255, 0.541);
+}
+// #add
+// {
+//   background-color: orange;
+// }
+#vehicle-btn
+{
+  // background-color: rgba(255, 166, 0, 0.788);
+  width:80%;
+  margin-left: 10%;
+}
